@@ -8,8 +8,8 @@ I like to live by the motto
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Excel     |
-|     2| LabView   |
+|     1| Python    |
+|     2| Excel     |
 |     3| SQL       |
 
 </details>
