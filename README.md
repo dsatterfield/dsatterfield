@@ -9,7 +9,7 @@ I like to live by the motto
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| Excel     |
-|     3| SQL       |
+|     2| SQL       |
+|     3| Excel     |
 
 </details>
